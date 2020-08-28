@@ -1,4 +1,4 @@
-# VanillaRyzenEFI
+# Vanilla Ryzen EFI
 
 OpenCore 0.5.9 | Catalina 10.15.4 | Works perfectly fine with Ryzen 5 3600 & RX580 8GB and MSI B450 Tomahawk Max.
 
